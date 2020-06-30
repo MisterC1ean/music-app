@@ -13,5 +13,6 @@
 
 #### Unfortunately this app requires the connection to a Spotify Premium account to function. That being said here is a link to their documentation https://developer.spotify.com/documentation/
 
-## Video Walkthrough
+## Video Walkthrough of Features
+(sound coming soon)
 [Omega Sound](https://youtu.be/0NdE8NHnDJ8)
